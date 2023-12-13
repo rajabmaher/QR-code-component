@@ -27,8 +27,8 @@ Users should be able to:
 - **Bonus**: Use the local JSON data to dynamically populate the content
 
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [Add solution URL here](https://github.com/rajabmaher/QR-code-component)
+- Live Site URL: [Add live site URL here]( https://rajabmaher.github.io/QR-code-component/)
 
 ## My process
 
